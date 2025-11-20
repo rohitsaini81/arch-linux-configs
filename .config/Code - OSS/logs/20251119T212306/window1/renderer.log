@@ -1,0 +1,42 @@
+2025-11-19 21:23:08.948 [info] Started local extension host with pid 2504.
+2025-11-19 21:23:18.909 [error] Error while getting the latest version for the extension yandeu.five-server. TypeError: Failed to fetch
+2025-11-19 21:23:20.831 [info] Auto updating outdated extensions. yandeu.five-server
+2025-11-19 21:23:31.656 [info] [perf] Render performance baseline is 103ms
+2025-11-19 21:25:39.641 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/rick/node_modules)
+2025-11-19 21:25:39.644 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/execa/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/execa/package.json')
+2025-11-19 21:25:39.644 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/yt-dlp-exec/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/yt-dlp-exec/package.json')
+2025-11-19 21:25:40.445 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/execa/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/execa/package.json')
+2025-11-19 21:25:40.446 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/yt-dlp-exec/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/yt-dlp-exec/package.json')
+2025-11-19 21:33:21.448 [error] Unable to read file '/home/rick/Desktop/blogs.com/src/components/Applications' (Error: Unable to resolve nonexistent file '/home/rick/Desktop/blogs.com/src/components/Applications'): Error: Unable to read file '/home/rick/Desktop/blogs.com/src/components/Applications' (Error: Unable to resolve nonexistent file '/home/rick/Desktop/blogs.com/src/components/Applications')
+    at P1t.G (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3773:65941)
+    at P1t.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3773:65766)
+    at async Y1t.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3778:9979)
+    at async Y1t.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3778:9754)
+    at async mwe.Eb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1312:12360)
+    at async mwe.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1312:10835)
+    at async G1t.W (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3778:6625)
+    at async QKe.r (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1312:21411)
+    at async jLt.acquire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:27:3390)
+    at async ZKe.createModelReference (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1312:22967)
+2025-11-19 21:49:16.372 [error] Error: Unable to move/copy '/home/rick/Desktop/blogs.com/src/app/components' because target '/home/rick/Desktop/blogs.com/src/components' already exists at destination.
+    at P1t.R (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3773:68895)
+    at async P1t.N (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3773:67154)
+    at async m9e.m (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:531:3774)
+    at async vft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:7936)
+    at async Sft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:12711)
+    at async Eft.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:18775)
+    at async Eft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:18430)
+    at async Dft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:20380)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2710:71033
+    at async r (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1294:13142)
+2025-11-19 21:49:16.382 [error] Unable to move/copy '/home/rick/Desktop/blogs.com/src/app/components' because target '/home/rick/Desktop/blogs.com/src/components' already exists at destination.: Error: Unable to move/copy '/home/rick/Desktop/blogs.com/src/app/components' because target '/home/rick/Desktop/blogs.com/src/components' already exists at destination.
+    at P1t.R (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3773:68895)
+    at async P1t.N (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3773:67154)
+    at async m9e.m (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:531:3774)
+    at async vft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:7936)
+    at async Sft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:12711)
+    at async Eft.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:18775)
+    at async Eft.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:18430)
+    at async Dft.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2712:20380)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2710:71033
+    at async r (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1294:13142)

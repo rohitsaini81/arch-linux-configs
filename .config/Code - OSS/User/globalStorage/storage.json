@@ -1,0 +1,106 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "3b3951cce7e669450272fe94e442dbbfe7af33e966c5d93c8b16438da3709f60",
+    "telemetry.devDeviceId": "5c41072a-fd29-42a8-a02f-02ef1a372c57",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/rick/Desktop/blogs.com"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/rick/Desktop/work": "__default__profile__",
+            "file:///home/rick/Desktop/blogs.com": "__default__profile__",
+            "file:///home/rick/Desktop/web-scrapping-stuff": "__default__profile__",
+            "file:///home/rick/Desktop/work/flappy-modi": "__default__profile__",
+            "file:///home/rick/Desktop/ShooterGame": "__default__profile__",
+            "file:///home/rick/Desktop/rohit_insta_app": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/rick/Desktop/blogs.com",
+            "backupPath": "/home/rick/.config/Code - OSS/Backups/92f6538def65b93114179ea50db5f9ce",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1366,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "7d93c4630e42bb0d79f4736e45c7eee3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "82c561b337f5c780f9a21bf1ac24a043": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6e210515447c04809a1a9f80438157cf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c1669bebcb853afd7c7a3422573e0100": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ef6d3143b85cce38e4b35af0fadbfaac": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9325543d43f5623e6296a9122ee10377": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "aea84819e6983f3f66defe14954f8f0d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

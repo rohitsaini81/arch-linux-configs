@@ -1,0 +1,132 @@
+2025-11-20 22:03:27.848 [info] Started local extension host with pid 2754.
+2025-11-20 22:03:35.445 [info] Auto updating outdated extensions. yandeu.five-server
+2025-11-20 22:03:36.802 [info] [perf] Render performance baseline is 60ms
+2025-11-20 22:10:38.529 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:40.291 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:41.393 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:43.278 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:44.805 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:46.302 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:48.548 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:50.292 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:51.792 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:52.623 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-11-20 22:10:53.892 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:54.057 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:55.388 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:55.661 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:56.059 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:10:56.222 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-11-20 22:10:56.345 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:11:02.986 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:11:04.051 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:11:04.243 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-11-20 22:11:04.527 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-11-20 22:11:04.909 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:456:35633)

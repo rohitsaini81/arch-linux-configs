@@ -1,0 +1,160 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Redo">
+      <i c="1" l="1762610108801" />
+    </e>
+    <e n="$SelectAll">
+      <i c="4" l="1762612174335" />
+    </e>
+    <e n="$Undo">
+      <i c="17" l="1763305431597" />
+    </e>
+    <e n="CloseProject">
+      <i c="6" l="1763288873609" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="4" l="1763305266304" />
+    </e>
+    <e n="Debug">
+      <i c="2" l="1763305414708" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="199" l="1763305557333" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="49" l="1763305617069" />
+    </e>
+    <e n="EditorCopy">
+      <i c="16" l="1763305294511" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1763304395872" />
+    </e>
+    <e n="EditorDelete">
+      <i c="37" l="1763304382515" />
+    </e>
+    <e n="EditorDown">
+      <i c="13" l="1763305403048" />
+    </e>
+    <e n="EditorEnter">
+      <i c="24" l="1763305601469" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1763304360974" />
+    </e>
+    <e n="EditorLeft">
+      <i c="49" l="1763305340703" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1763304127350" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="2" l="1763304130042" />
+    </e>
+    <e n="EditorPaste">
+      <i c="25" l="1763305296691" />
+    </e>
+    <e n="EditorRight">
+      <i c="42" l="1763305612996" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1763289448353" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="1" l="1763304379954" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="10" l="1763305856194" />
+    </e>
+    <e n="FileChooser.Refresh">
+      <i c="1" l="1762688020743" />
+    </e>
+    <e n="Find">
+      <i c="14" l="1763305593154" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="1" l="1762611643090" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="1" l="1763289212491" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="6" l="1763305597831" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1762678264502" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1763288861673" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="16" l="1763305683132" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1763305285878" />
+    </e>
+    <e n="RenameFile">
+      <i c="1" l="1762612218855" />
+    </e>
+    <e n="Run">
+      <i c="48" l="1763305686425" />
+    </e>
+    <e n="SaveAll">
+      <i c="11" l="1763304695331" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1762612339031" />
+    </e>
+    <e n="Stop">
+      <i c="8" l="1763305823679" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1762678284615" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="3" l="1763288876992" />
+    </e>
+    <e n="com.android.tools.idea.gradle.project.upgrade.ProjectUpgradeNotification$1">
+      <i c="1" l="1762680478531" />
+    </e>
+    <e n="com.android.tools.idea.run.deployment.selector.SelectDeviceAction">
+      <i c="1" l="1762679518059" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="1" l="1762608226941" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="5" l="1762612430029" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="5" l="1763305684626" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="4" l="1763304699897" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="13" l="1763305538310" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.RestorePreviousSettingsAction">
+      <i c="1" l="1763305410702" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1762680208726" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="15" l="1763303422004" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1763305284426" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="5" l="1763306322509" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="24" l="1763306228487" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="6" l="1763288869408" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+{
+	"preferences": {
+		"typescript": false,
+		"linter": "eslint",
+		"eslint": true,
+		"tailwind": true,
+		"srcDir": false,
+		"app": true,
+		"turbopack": true
+	}
+}

@@ -1,0 +1,14 @@
+2025-11-11 14:32:24.486 [info] Extension host with pid 7316 started
+2025-11-11 14:32:24.486 [info] Skipping acquiring lock for /home/rick/.config/Code - OSS/User/workspaceStorage/9325543d43f5623e6296a9122ee10377.
+2025-11-11 14:32:24.619 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-11 14:32:24.630 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-11-11 14:32:24.707 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-11 14:32:24.880 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-11 14:32:25.239 [info] Eager extensions activated
+2025-11-11 14:32:25.259 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-11 14:32:25.330 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-11 14:32:25.340 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-11 14:32:25.394 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2025-11-11 14:32:26.037 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-11 14:32:30.129 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-11 14:32:30.165 [info] Extension host with pid 7316 exiting with code 0

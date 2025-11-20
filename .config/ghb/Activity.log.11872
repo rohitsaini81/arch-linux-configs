@@ -1,0 +1,34 @@
+HandBrake 20250906052339-dddf75f75-makepkg (2025092401)
+OS: Arch Linux
+Kernel: Linux 6.17.7-arch1-1 (x86_64)
+CPU: Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz x 4
+Install Dir: /usr/bin
+Config Dir:  /home/rick/.config/ghb
+_______________________________
+
+[14:12:03] Compile-time hardening features are enabled
+Cannot load libnvidia-encode.so.1
+[14:12:03] vcn: not available on this system
+[14:12:04] qsv: not available on this system
+[14:12:04] hb_init: starting libhb thread
+[14:12:04] hb_init: starting libhb thread
+[14:12:04] hb_init: starting libhb thread
+[14:12:04] gtkgui: Failed to read presets file, initializing new presets...
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.401: GtkCellView 0x55b9aea4b240 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.401: GtkCellView 0x55b9ae9e6950 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.401: GtkCellView 0x55b9ae994750 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.402: GtkCellView 0x55b9aea5d6b0 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.405: GtkCellView 0x55b9aeaf0e60 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.405: GtkCellView 0x55b9aeb08450 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:06.405: GtkCellView 0x55b9aeb1af70 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:09.634: GtkCellView 0x55b9aea4b240 (cellview) reported min width -2, but sizes must be >= 0
+
+(fr.handbrake.ghb:11872): Gtk-WARNING **: 14:12:09.635: GtkCellView 0x55b9ae9e6950 (cellview) reported min width -2, but sizes must be >= 0

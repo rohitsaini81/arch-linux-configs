@@ -1,0 +1,54 @@
+2025-11-19 21:10:40.297 [info] [main] Log level: Info
+2025-11-19 21:10:40.297 [info] [main] Validating found git in: "git"
+2025-11-19 21:10:40.297 [info] [main] Using git "2.51.2" from "git"
+2025-11-19 21:10:40.297 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-19 21:10:40.297 [info] > git rev-parse --show-toplevel [12ms]
+2025-11-19 21:10:40.297 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [12ms]
+2025-11-19 21:10:40.297 [info] [Model][openRepository] Opened repository (path): /home/rick/Desktop/blogs.com
+2025-11-19 21:10:40.297 [info] [Model][openRepository] Opened repository (real path): /home/rick/Desktop/blogs.com
+2025-11-19 21:10:40.297 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-19 21:10:40.297 [info] > git config --get commit.template [18ms]
+2025-11-19 21:10:40.297 [info] > git rev-parse --show-toplevel [13ms]
+2025-11-19 21:10:40.297 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-11-19 21:10:40.297 [info] > git rev-parse --show-toplevel [91ms]
+2025-11-19 21:10:40.297 [info] > git rev-parse --show-toplevel [66ms]
+2025-11-19 21:10:40.297 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-19 21:10:40.601 [info] > git status -z -uall [324ms]
+2025-11-19 21:10:40.603 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [305ms]
+2025-11-19 21:10:40.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [61ms]
+2025-11-19 21:10:40.768 [info] > git config --get --local branch.main.vscode-merge-base [17ms]
+2025-11-19 21:10:40.783 [info] > git config --get commit.template [49ms]
+2025-11-19 21:10:40.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2025-11-19 21:10:40.830 [info] > git merge-base refs/heads/main refs/remotes/origin/main [28ms]
+2025-11-19 21:10:40.849 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-11-19 21:10:40.869 [info] > git diff --name-status -z --diff-filter=ADMR ada2039a8d6bbcd1d4b98b28deea3ec55f38cdf5...refs/remotes/origin/main [21ms]
+2025-11-19 21:10:40.900 [info] > git status -z -uall [14ms]
+2025-11-19 21:10:40.902 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-11-19 21:10:44.494 [info] > git fetch [3570ms]
+2025-11-19 21:10:44.504 [info] > git config --get commit.template [5ms]
+2025-11-19 21:10:44.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-11-19 21:10:44.514 [info] > git status -z -uall [5ms]
+2025-11-19 21:10:44.515 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-19 21:10:46.159 [info] > git check-ignore -v -z --stdin [3ms]
+2025-11-19 21:10:48.287 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-19 21:10:53.915 [info] > git show --textconv :src/app/page.jsx [19ms]
+2025-11-19 21:10:53.931 [info] > git ls-files --stage -- src/app/page.jsx [17ms]
+2025-11-19 21:10:53.961 [info] > git cat-file -s 089853eaf3bdab488c0440d295a3dc96ed764987 [13ms]
+2025-11-19 21:11:11.858 [info] > git show --textconv :src/app/blogs/page.jsx [16ms]
+2025-11-19 21:11:11.886 [info] > git hash-object -t tree /dev/null [12ms]
+2025-11-19 21:11:11.887 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rick/Desktop/blogs.com/src/app/blogs/page.jsx.git?%7B%22path%22%3A%22%2Fhome%2Frick%2FDesktop%2Fblogs.com%2Fsrc%2Fapp%2Fblogs%2Fpage.jsx%22%2C%22ref%22%3A%22%22%7D
+2025-11-19 21:11:11.890 [info] > git ls-files --stage -- src/app/blogs/page.jsx [33ms]
+2025-11-19 21:11:11.893 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rick/Desktop/blogs.com/src/app/blogs/page.jsx.git?%7B%22path%22%3A%22%2Fhome%2Frick%2FDesktop%2Fblogs.com%2Fsrc%2Fapp%2Fblogs%2Fpage.jsx%22%2C%22ref%22%3A%22%22%7D
+2025-11-19 21:11:11.987 [info] > git check-ignore -v -z --stdin [7ms]
+2025-11-19 21:11:13.624 [info] > git show --textconv :src/app/page.jsx [8ms]
+2025-11-19 21:11:13.625 [info] > git ls-files --stage -- src/app/page.jsx [3ms]
+2025-11-19 21:11:13.635 [info] > git cat-file -s 089853eaf3bdab488c0440d295a3dc96ed764987 [3ms]
+2025-11-19 21:11:14.166 [info] > git blame --root --incremental ada2039a8d6bbcd1d4b98b28deea3ec55f38cdf5 -- src/app/page.jsx [23ms]
+2025-11-19 21:11:17.386 [info] > git config --get commit.template [5ms]
+2025-11-19 21:11:17.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-11-19 21:11:17.399 [info] > git status -z -uall [7ms]
+2025-11-19 21:11:17.400 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-11-19 21:11:35.630 [info] > git config --get commit.template [11ms]
+2025-11-19 21:11:35.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-11-19 21:11:35.658 [info] > git status -z -uall [14ms]
+2025-11-19 21:11:35.660 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]

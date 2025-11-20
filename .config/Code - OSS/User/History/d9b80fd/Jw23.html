@@ -1,0 +1,14 @@
+<canvas id="myCanvas" width="300" height="200"></canvas>
+<img id="myImage" src="photo.jpg" hidden />
+
+<script>
+const canvas = document.getElementById('myCanvas');
+const ctx = canvas.getContext('2d');
+const img = document.getElementById('myImage');
+
+img.onload = () => {
+  // Crop a 100x100 area starting from (50, 50) in the source image
+  // and draw it at (0, 0) on the canvas with size 200x200 (scaled)
+  ctx.drawImage(img, 50, 50, 100, 100, 0, 0, 200, 200);
+};
+</script>

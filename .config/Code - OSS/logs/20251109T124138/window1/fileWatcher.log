@@ -1,0 +1,1 @@
+2025-11-09 12:50:31.839 [error] [File Watcher ('parcel')] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/rick/.cache/typescript/5.9/node_modules)

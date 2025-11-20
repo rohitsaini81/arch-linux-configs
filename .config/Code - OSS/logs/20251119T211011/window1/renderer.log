@@ -1,0 +1,12 @@
+2025-11-19 21:10:14.189 [info] Started local extension host with pid 5056.
+2025-11-19 21:10:20.180 [info] [perf] Render performance baseline is 75ms
+2025-11-19 21:10:20.622 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:808:23355
+2025-11-19 21:10:23.922 [error] Error while getting the latest version for the extension yandeu.five-server. TypeError: Failed to fetch
+2025-11-19 21:10:27.910 [info] Auto updating outdated extensions. yandeu.five-server
+2025-11-19 21:10:40.200 [warning] [backup tracker] suspended, ignoring unregister event file:///home/rick/Desktop/rohit_insta_app/package.json 

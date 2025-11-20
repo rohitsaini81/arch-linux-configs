@@ -1,0 +1,3 @@
+2025-11-09 12:41:43.975 [info] Log level: Info
+2025-11-09 12:41:44.217 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-11-09 12:44:03.488 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for rohitsaini81/blogs.com: Error: No GitHub authentication session available.

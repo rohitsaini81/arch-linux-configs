@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/work/yt">
+          <value>
+            <RecentProjectMetaInfo frameTitle="yt" projectWorkspaceId="34KRFASUzM7msr8bEmk7eb7dPHx">
+              <option name="activationTimestamp" value="1761226587739" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-252.26830.84" />
+              <option name="buildTimestamp" value="1759360020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="10" y="48" width="1346" height="710" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1760960172782" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/work/ShooterGame">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ShooterGame – README.md [ShooterGame]" projectWorkspaceId="34kBO4zbopg8GxC1FjwGBBxzSbC">
+              <option name="activationTimestamp" value="1761749770046" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-252.26830.84" />
+              <option name="buildTimestamp" value="1759360020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="10" y="48" width="1346" height="710" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1761747653937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/modigame">
+          <value>
+            <RecentProjectMetaInfo frameTitle="modigame – FlappyBirdScreen.java [modigame.core.main]" opened="true" projectWorkspaceId="34kG8iAdwSN2kIVwXwpn2GEJ247">
+              <option name="activationTimestamp" value="1762608769911" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-252.26830.84" />
+              <option name="buildTimestamp" value="1759360020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="10" y="48" width="1346" height="710" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1762606409187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/modigame" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+  </component>
+</application>

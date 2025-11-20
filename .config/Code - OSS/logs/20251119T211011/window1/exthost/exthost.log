@@ -1,0 +1,16 @@
+2025-11-19 21:10:17.040 [info] Extension host with pid 5056 started
+2025-11-19 21:10:17.040 [info] Skipping acquiring lock for /home/rick/.config/Code - OSS/User/workspaceStorage/aea84819e6983f3f66defe14954f8f0d.
+2025-11-19 21:10:17.399 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-19 21:10:17.505 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-19 21:10:17.540 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-11-19 21:10:17.639 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-19 21:10:17.722 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-19 21:10:17.953 [info] Eager extensions activated
+2025-11-19 21:10:17.965 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-19 21:10:17.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-19 21:10:18.034 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2025-11-19 21:10:22.934 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-19 21:10:22.948 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-19 21:10:22.977 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-19 21:10:40.190 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-19 21:10:40.235 [info] Extension host with pid 5056 exiting with code 0

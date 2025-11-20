@@ -1,0 +1,28 @@
+2025-11-01 14:25:55.960 [info] Extension host with pid 4386 started
+2025-11-01 14:25:55.961 [info] Skipping acquiring lock for /home/rick/.config/Code - OSS/User/workspaceStorage/82c561b337f5c780f9a21bf1ac24a043.
+2025-11-01 14:25:56.080 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-01 14:25:56.159 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2025-11-01 14:25:57.589 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-01 14:25:57.596 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-11-01 14:25:57.711 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-01 14:25:57.903 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-01 14:25:58.485 [info] Eager extensions activated
+2025-11-01 14:25:58.801 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-01 14:25:58.814 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-01 14:25:58.981 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2025-11-01 14:25:59.552 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-01 14:26:03.094 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-01 14:26:03.128 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-01 14:26:03.190 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-01 14:50:05.151 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-01 14:50:05.210 [info] Extension host with pid 4386 exiting with code 0
+2025-11-01 14:50:07.658 [info] Extension host with pid 8406 started
+2025-11-01 14:50:07.752 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-01 14:50:07.762 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-01 14:50:07.844 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-01 14:50:08.084 [info] Eager extensions activated
+2025-11-01 14:50:08.093 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-01 14:50:08.102 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-01 14:50:08.176 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2025-11-01 14:59:59.497 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-01 14:59:59.506 [info] Extension host with pid 8406 exiting with code 0

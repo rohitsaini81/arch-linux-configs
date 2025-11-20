@@ -1,0 +1,21 @@
+// app/api/blog/[slug]/route.js
+// import { blogPosts } from '@/lib/blogData';
+// import { fetchBlogs } from '@/lib/pg';
+
+// export async function GET(request, { params }) {
+//   const blogs = blogPosts.find((p) => p.slug === params.slug);
+//   // const blogs = await fetchBlogs()
+//   // console.log("blogs", blogs)
+
+//   if (!blogs) {
+//     return new Response(JSON.stringify({ message: 'Not Found' }), {
+//       status: 404,
+//     });
+//   }
+
+//   return Response.json(blogs);
+// }
+
+
+
+// not it just using databasee function directoly which is by default ssr

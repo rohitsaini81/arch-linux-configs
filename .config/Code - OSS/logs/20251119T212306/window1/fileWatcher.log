@@ -1,0 +1,5 @@
+2025-11-19 21:25:39.645 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/rick/node_modules)
+2025-11-19 21:25:39.645 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/execa/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/execa/package.json')
+2025-11-19 21:25:39.645 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/yt-dlp-exec/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/yt-dlp-exec/package.json')
+2025-11-19 21:25:40.444 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/execa/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/execa/package.json')
+2025-11-19 21:25:40.446 [error] [File Watcher (node.js)] Failed to watch /home/rick/node_modules/yt-dlp-exec/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/rick/node_modules/yt-dlp-exec/package.json')

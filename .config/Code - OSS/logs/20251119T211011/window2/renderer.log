@@ -1,0 +1,6 @@
+2025-11-19 21:10:37.585 [info] Started local extension host with pid 5671.
+2025-11-19 21:10:41.402 [info] [perf] Render performance baseline is 147ms
+2025-11-19 21:10:42.264 [error] Error while getting the latest version for the extension yandeu.five-server. TypeError: Failed to fetch
+2025-11-19 21:10:45.012 [info] Auto updating outdated extensions. yandeu.five-server
+2025-11-19 21:11:36.337 [warning] [backup tracker] suspended, ignoring unregister event file:///home/rick/Desktop/blogs.com/package.json 
+2025-11-19 21:11:36.338 [warning] [backup tracker] suspended, ignoring unregister event file:///home/rick/Desktop/blogs.com/.next/dev/build/package.json 

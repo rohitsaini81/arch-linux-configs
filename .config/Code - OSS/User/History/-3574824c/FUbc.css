@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+.bootstrap-scope {
+  all: initial;
+  * {
+    all: unset;
+  }
+}
+
+
+/* Custom global styles */
+html,
+body {
+  @apply bg-white text-gray-900 antialiased;
+  scroll-behavior: smooth;
+  font-family: 'Inter', sans-serif;
+}
+
+a {
+  @apply transition-colors duration-200;
+  text-decoration: none !important;
+}
+
+/* Hide focus outline only if using mouse */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+button {
+  @apply focus:outline-none;
+}
+
+* {
+  box-sizing: border-box;
+}
+

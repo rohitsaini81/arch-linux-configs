@@ -1,0 +1,15 @@
+// app/api/blog/[slug]/route.js
+import { blogPosts } from '@/lib/blogData';
+
+export async function GET(request, { params }) {
+  const post = blogPosts.find((p) => p.slug === params.slug);
+
+  console.log("route slug.js")
+  if (!post) {
+    return new Response(JSON.stringify({ message: 'Not Found' }), {
+      status: 404,
+    });
+  }
+
+  return Response.json(post);
+}

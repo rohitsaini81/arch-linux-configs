@@ -1,0 +1,4 @@
+DATABASE_URL=postgresql://postgres:simran8199889776@db.eljhysanzgwfvzvjvtnl.supabase.co:5432/postgres
+LOCAL = postgres://rohitsaini:mypassword@localhost:5432/mydatabase
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVsamh5c2Fuemd3ZnZ6dmp2dG5sIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgzNDkyNjIsImV4cCI6MjA3MzkyNTI2Mn0.N9dNxMLOGUIzxo9XdK1eKw41L4Z-2Hppr92QB87ZUDM
+SUPABASE_URL=https://eljhysanzgwfvzvjvtnl.supabase.co

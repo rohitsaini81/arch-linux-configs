@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://postgres:simran8199889776@db.eljhysanzgwfvzvjvtnl.supabase.co:5432/postgres
+LOCAL = postgres://rohitsaini:mypassword@localhost:5432/mydatabase

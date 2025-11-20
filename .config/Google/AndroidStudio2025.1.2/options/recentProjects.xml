@@ -1,0 +1,61 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Game">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Game" projectWorkspaceId="35EboGa7FWIbgZkLpEb3rwcPzWR">
+              <option name="activationTimestamp" value="1763288804733" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.25410.109.2512.13571611" />
+              <option name="buildTimestamp" value="1748532540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="10" y="48" width="1346" height="710" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1763288808628" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ShooterGame/game1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="game1" projectWorkspaceId="35EvQWkMHQj2lnPZj4B0k4sAJSu">
+              <option name="activationTimestamp" value="1763288861184" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.25410.109.2512.13571611" />
+              <option name="buildTimestamp" value="1748532540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="10" y="48" width="1346" height="710" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1763288826721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ShooterGame/game2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="game2 – FlappyBirdScreen.java [game2.core.main]" opened="true" projectWorkspaceId="35YZHskmehrtZFQbW52t25C7oX4">
+              <option name="activationTimestamp" value="1763306223140" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.25410.109.2512.13571611" />
+              <option name="buildTimestamp" value="1748532540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="10" y="48" width="1346" height="710" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1763303296868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/ShooterGame/game2" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

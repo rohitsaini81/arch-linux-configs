@@ -1,0 +1,1 @@
+2025-11-16 05:00:32.743 [error] Failed to set sticky bit on /tmp/rick-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/rick-code-oss-zsh'

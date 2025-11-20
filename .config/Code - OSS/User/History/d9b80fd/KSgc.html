@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>hello world</title>
+    </head>
+    <body>
+
+  
+
+
+<canvas id="myCanvas" width="300" height="200"></canvas>
+<img id="myImage" src="knight.png" hidden />
+
+<script>
+const canvas = document.getElementById('myCanvas');
+const ctx = canvas.getContext('2d');
+
+  ctx.font = "25px Arial";
+  ctx.fillStyle = "red";
+  ctx.textAlign = "center";
+  ctx.fillText(
+    "Press, touch or click to start",
+    canvas.width / 2,
+    canvas.height / 4
+  );
+
+
+const img = document.getElementById('myImage');
+const image = new Image()
+image.src="./knight.png" || ""
+img.onload = () => {
+  // Crop a 100x100 area starting from (50, 50) in the source image
+  // and draw it at (0, 0) on the canvas with size 200x200 (scaled)
+//   ctx.drawImage(img, 10, 10, 0, 10, 4, 4, 20, 20);
+//   ctx.drawImage(img, 10, 10, 0, 10, 4, 4, 20, 20);
+    ctx.drawImage(image, -image.width / 2, -image.height / 2);
+
+
+};
+
+setInterval(()=>{
+console.log("hell")
+  ctx.drawImage(image, 10, 10, 10, 10, 4, 4, 20, 20);
+
+
+},1000/40)
+</script>
+  </body>
+</html>
