@@ -1,0 +1,44 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+
+sleep 0.5
+
+URL="$1"
+read -p "choose option" MODE
+echo $URL
+echo $MODE
+
+LOG="$HOME/url-log.txt"
+DIR="$HOME/storage/shared/Downloads/yt"
+
+read -p "Enter a number: " choice
+
+if [ "$choice" = "1" ]; then
+    echo "You entered: 1"
+	echo $DIR
+elif [ "$choice" = "2" ]; then
+    echo "You entered: 2"
+else
+    echo "Invalid input"
+fi
+
+
+echo "Incoming URL: $URL" >> "$LOG"
+echo "Mode: $MODE" >> "$LOG"
+
+if [[ -z "$URL" ]]; then
+    echo "No URL passed" >> "$LOG"
+    exit 1
+fi
+
+echo "Downloading... URL: $URL" >> "$LOG"
+
+# MODE 1 → video
+if [[ "$MODE" == "1" ]]; then
+    yt-dlp -f "bv*+ba/b" -o "$DIR/%(title)s.%(ext)s" "$URL" >> "$LOG" 2>&1
+fi
+
+# MODE 2 → audio-only (mp3)
+if [[ "$MODE" == "2" ]]; then
+    yt-dlp -f "ba" -x --audio-format mp3 -o "$DIR/%(title)s.%(ext)s" "$URL" >> "$LOG" 2>&1
+fi
+read -p "done" wait
