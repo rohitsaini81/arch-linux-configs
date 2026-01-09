@@ -6,3 +6,6 @@ $scrPath=$HOME/.local/lib/hyde # set scripts path
 
 /home/rohit/.local/lib/hyde
 emoji-picker.sh
+
+
+

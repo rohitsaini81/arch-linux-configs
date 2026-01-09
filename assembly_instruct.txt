@@ -1,0 +1,23 @@
+assembling into object file
+Create an ELF object file suitable for a 64-bit Linux system
+
+nasm -f elf64 hello.asm -o hello.o
+nasm -f elf32 hello32.asm -o hello32.o
+
+
+-f elf32   # Linux 32-bit
+-f elf64   # Linux 64-bit
+-f macho64 # macOS 64-bit
+-f win32   # Windows 32-bit
+-f win64   # Windows 64-bit
+-f bin     # Raw flat binary (no headers)
+
+
+
+converting into excutable 
+
+ld hello.o -o hello
+
+
+then run
+./hello
